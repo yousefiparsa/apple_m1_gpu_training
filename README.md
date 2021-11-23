@@ -8,8 +8,8 @@ pip install -r requirements.txt
 
 ## Run the classifier example Python script
 
-python classifier.py
+python src/classifier.py
 
 ## Run the classifier example in Jupyter Notebook
 
-classifier.ipynb
+src/classifier.ipynb
