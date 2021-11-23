@@ -1,2 +1,2 @@
-tensorflow==2.6.0
-tensorflow_datasets==4.4.0
+tensorflow>=2.6.0
+tensorflow_datasets>=4.4.0
