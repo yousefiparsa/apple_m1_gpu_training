@@ -32,15 +32,15 @@ The typical procedures to install Tensowflow such as pip or native ways do not w
 
 ## Install Requirements
 
-`pip install -r requirements.txt`
+* `pip install -r requirements.txt`
 
 ## Run the classifier example Python script
 
-`python src/classifier.py`
+* `python src/classifier.py`
 
 ## Run the classifier example in Jupyter Notebook
 
-`src/classifier.ipynb`
+* `src/classifier.ipynb`
 
 ## References
 
