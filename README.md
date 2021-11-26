@@ -10,6 +10,10 @@ The typical procedures to install Tensowflow such as pip or native ways do not w
 
 [How to install Miniforge on Apple Silicon machine](https://github.com/conda-forge/miniforge)
 
+or
+
+* `bash dependencies/miniforge3-macos-arm64.sh`
+
 * `conda config --set auto_activate_base false` to deactivate default base env from miniforge.
 
 ### Create a conda environment and activate it
